@@ -1,0 +1,25 @@
+#header_hero{
+    background-image: url(img/header-hero.jpg);
+    height: 43vh;
+    background-size: cover;
+}
+
+#header_hero span{
+    height: 25vh;
+    width: 25vh;
+
+}
+
+#img_header img{
+   
+   border-radius: 5%;
+    
+ 
+
+}
+
+#presentation img{
+    -webkit-box-shadow: 5px 5px 20px -3px #000000; 
+box-shadow: 5px 5px 20px -3px #000000;
+border-radius: 1%;
+}
